@@ -1,0 +1,12 @@
+/home/matthew/Projects/C# Mono/FinalProject_LamontMacoyMelkie/AddSim/AddSim/bin/Debug/AddSim.exe
+/home/matthew/Projects/C# Mono/FinalProject_LamontMacoyMelkie/AddSim/AddSim/bin/Debug/AddSim.pdb
+/home/matthew/Projects/C# Mono/FinalProject_LamontMacoyMelkie/AddSim/AddSim/obj/x86/Debug/AddSim.csprojAssemblyReference.cache
+/home/matthew/Projects/C# Mono/FinalProject_LamontMacoyMelkie/AddSim/AddSim/obj/x86/Debug/AddSim.csproj.CoreCompileInputs.cache
+/home/matthew/Projects/C# Mono/FinalProject_LamontMacoyMelkie/AddSim/AddSim/obj/x86/Debug/AddSim.exe
+/home/matthew/Projects/C# Mono/FinalProject_LamontMacoyMelkie/AddSim/AddSim/obj/x86/Debug/AddSim.pdb
+/home/matthew/Projects/C# Mono/AddSim/AddSim/bin/Debug/AddSim.exe
+/home/matthew/Projects/C# Mono/AddSim/AddSim/bin/Debug/AddSim.pdb
+/home/matthew/Projects/C# Mono/AddSim/AddSim/obj/x86/Debug/AddSim.csprojAssemblyReference.cache
+/home/matthew/Projects/C# Mono/AddSim/AddSim/obj/x86/Debug/AddSim.csproj.CoreCompileInputs.cache
+/home/matthew/Projects/C# Mono/AddSim/AddSim/obj/x86/Debug/AddSim.exe
+/home/matthew/Projects/C# Mono/AddSim/AddSim/obj/x86/Debug/AddSim.pdb
